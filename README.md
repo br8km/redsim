@@ -1,7 +1,11 @@
-# redsim - Subreddit Discovery by Similarity Score
+# REDSIM - `Subreddit Discovery by Similarity Score`
 
 
-## Reference
+## References
 - https://github.com/anvaka/redsim
 - https://github.com/anvaka/reddata
 
+
+
+## Notes
+- I am using this project for study modern cpp best practices.
