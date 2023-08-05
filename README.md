@@ -20,6 +20,15 @@
         - https://cliutils.gitlab.io/modern-cmake/
 
 
+- `Web Scraping`
+    - https://www.scrapingbee.com/blog/web-scraping-c++/
+
+
+- `Build`
+    - Package Manager - https://vcpkg.io/en/getting-started.html
+
+
+
 **Notes:** I am using this project for study modern cpp best practices.
 
 # Required Libs
@@ -34,4 +43,4 @@
 - Coding Style Tools
 
 
-
+# atom -> Own Custom Libs

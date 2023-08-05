@@ -1,8 +1,12 @@
-// process:
-// convert_file|read_file|save_file
-// data processing
-// save dumps
-// method to get similar score for subreddits A|B
+/*
+
+# process:
+- convert_file|read_file|save_file
+- data processing
+- save dumps
+- method to get similar score for subreddits A|B
+
+*/
 
 
 #include <fstream>
