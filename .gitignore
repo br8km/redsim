@@ -2,6 +2,3 @@ bin/*
 CMakeFiles/
 *.o
 Makefile
-
-# vscode
-.vscode/

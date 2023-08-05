@@ -21,6 +21,7 @@
 
 
 - `Web Scraping`
+    - https://www.zenrows.com/blog/c-plus-plus-web-scraping
     - https://www.scrapingbee.com/blog/web-scraping-c++/
 
 
@@ -44,3 +45,8 @@
 
 
 # atom -> Own Custom Libs
+
+
+# TODO
+
+- Web Scraper
